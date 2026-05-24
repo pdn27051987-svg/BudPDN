@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Бюджет",
+  "description": "Умное и красивое приложение для контроля доходов, расходов, переводов с пересчетом курсов валют НБРБ, календарем баланса, фильтрацией и детальной аналитикой.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

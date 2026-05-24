@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:width="110dp"
+        android:height="110dp"
+        android:drawable="@drawable/ic_launcher_swamp_br_1779572021541"
+        android:gravity="center" />
+</layer-list>
